@@ -69,3 +69,7 @@ This repository contains an interactive Power BI dashboard developed to analyze 
 
       The dashboard empowers stakeholders with the tools they need to make informed, proactive decisions that enhance overall business           performance.
 
+7. Screenshot / Demos :
+    https://github.com/Sudhakarknaik/UBER-Data-Analysis-Dashboard/blob/main/Capture.PNG
+   
+
